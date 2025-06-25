@@ -1,9 +1,10 @@
-🚀 Chat Application
-🌟 Overview
+## 🚀 Chat Application
+
+## 🌟 Overview
 This is a real-time chat application with user authentication, avatar management, and instant messaging, built using the MERN stack (React + Node.js + MongoDB). It supports live chat via Socket.IO and rich UI features like emojis and notifications.
 
-✨ Features
-🛠 Backend
+## ✨ Features
+## 🛠 Backend
 🔐 User Authentication: Secure register/login with bcrypt password hashing
 
 👮‍♂️ Admin Registration: Dedicated admin user registration
@@ -20,7 +21,7 @@ This is a real-time chat application with user authentication, avatar management
 
 🔧 Dev Tools: CORS enabled, dotenv for config, nodemon for live reload
 
-🎨 Frontend
+## 🎨 Frontend
 ⚛️ React.js: Modern UI with components and hooks
 
 📝 Forms: Register/login with validation
